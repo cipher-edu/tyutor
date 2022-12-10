@@ -1,12 +1,16 @@
-/**
- * AdminLTE Demo Menu
- * ------------------
- * You should not use this file in production.
- * This file is for demo purposes only.
+/*!
+ *   Tyutor NDPi
+ *   Author: cipheredu 
+ *   Creator: Abduraimov Oybek
+ *   Website: Tyutor <https://cipheredu.uz>
+ *   License: Open source - MIT <https://opensource.org/licenses/MIT>
  */
-
-/* eslint-disable camelcase */
-
+/*!
+ * Bootstrap v4.6.1 (https://getbootstrap.com/)
+ * Copyright 202-2023 The Bootstrap Authors
+ * Copyright 2022-2023 Twitter, Inc.
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
+ */
 (function ($) {
   'use strict'
 
